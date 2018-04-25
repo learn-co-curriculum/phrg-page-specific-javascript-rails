@@ -89,4 +89,4 @@ $(".pages.contact").click(function() {
 })
 ```
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/page-specific-javascript-rails' title='Page Specific JavaScript Rails'>Page Specific JavaScript Rails</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Page Specific JavaScript Rails</p>
